@@ -1,0 +1,45 @@
+
+.menu{
+    min-height: 55px;
+    background-color: aqua;
+}
+
+.banner{
+    background-image: url("../img/banner.jpg");
+    min-height: 400px;
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin-bottom: 5px;
+}
+.slider1{
+    height: 30px;
+    line-height: 30px;
+    background-color: #D6D7D9;
+}
+
+.content{
+    background-color: #D6D7D9;
+   height: 400px;
+    overflow: scroll;
+    padding: 10px;
+    text-align: justify;
+}
+.side_bar{
+    background-color: #D6D7D9;
+    height: 400px;
+}
+
+
+
+
+
+
+
+
+.box{
+    min-height: 60px;
+    background-color: red;
+    margin-bottom: 5px;
+    text-align: center;
+    line-height: 60px;
+}
